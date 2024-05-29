@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "moeenaalam-simple-calculator",
   "version": "1.0.0",
   "description": "A simple command line calculator.",
   "main": "index.js",
